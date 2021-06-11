@@ -12,12 +12,6 @@ I feel grateful to the authors for providing them.
 >Pytorch 1.3.0
 
 ## * Usage
-* Download hyperspectral data and add them to `./dataset`.<br>
-* All the hyperparameters are in `./tflib/config.py`.<br>
-Set them to what you want when running a code.<br>
-* Run<br>
-`python GAL.py -GPU 0` <br> 
-to see GAL in the local mode on the Salinas dataset.
-
+coming soon
 ## * Citation
 
