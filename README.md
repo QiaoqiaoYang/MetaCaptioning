@@ -1,4 +1,4 @@
-# Code for the TGRS2021 article 'Meta Captioning: A Meta Learning Based Remote Sensing Image Captioning Framework'.
+# Code for the 'Meta Captioning'.
 ---------------------------------------------
 * Here I provide Pytorch implementations for remote sensing image captioning on UCM dataset.
 
