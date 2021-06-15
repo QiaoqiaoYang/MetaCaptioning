@@ -14,17 +14,17 @@ I feel grateful to the authors for providing them.
 ## * Usage
 coming soon
 For traning:
-(1)Gain the meta features 
-Specific steps are written in the paper, we provide well-tranined parameters value in ./data
-(2)Representing remote sensing images 
-python prepro_feats.py
-(3)Transmitting the labels
-python prepro_labels.py 
-we provide corresponding files of UCM in ./data
-(4)Training
-python train.py 
-(5)Testing:
-python eval.py 
+>(1)Gain the meta features <br>
+Specific steps are written in the paper, we provide well-tranined parameters value in ./data<br>
+>(2)Representing remote sensing images <br>
+python prepro_feats.py<br>
+>(3)Transmitting the labels<br>
+>python prepro_labels.py <br>
+we provide corresponding files of UCM in ./data<br>
+>(4)Training<br>
+python train.py <br>
+>(5)Testing:<br>
+python eval.py <br>
 ......
 
 ## * Citation
