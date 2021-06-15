@@ -12,8 +12,7 @@ I feel grateful to the authors for providing them.
 >Pytorch 1.3.0
 
 ## * Usage
-coming soon
-For traning:
+
 >(1)Gain the meta features <br>
 Specific steps are written in the paper, we provide well-tranined parameters value in ./data<br>
 >(2)Representing remote sensing images <br>
@@ -23,6 +22,7 @@ python prepro_feats.py<br>
 we provide corresponding files of UCM in ./data<br>
 >(4)Training<br>
 python train.py <br>
+......
 >(5)Testing:<br>
 python eval.py <br>
 ......
