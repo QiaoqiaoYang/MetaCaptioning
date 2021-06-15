@@ -22,7 +22,7 @@ python prepro_feats.py<br>
 we provide corresponding files of UCM in ./data<br>
 >(4)Training<br>
 python train.py <br>
-......
+......<br>
 >(5)Testing:<br>
 python eval.py <br>
 ......
