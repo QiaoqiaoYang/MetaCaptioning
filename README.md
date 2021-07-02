@@ -14,7 +14,7 @@ I am very grateful to the authors for providing them.
 ## * Usage
 
 >(1)Gain the meta features <br>
-Specific steps are written in the paper, we provide well-tranined parameters value in ./data<br>
+Specific steps are written in the paper, we will provide well-tranined parameters value in ./data<br>
 >(2)Representing remote sensing images <br>
 python prepro_feats.py<br>
 >(3)Transmitting the labels<br>
@@ -25,7 +25,7 @@ python train.py <br>
 ......<br>
 >(5)Testing:<br>
 python eval.py <br>
-Specific configuration information will be forthcoming
+Specific configuration information is coming soon
 
 ## * Citation
 
